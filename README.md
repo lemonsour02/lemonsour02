@@ -25,7 +25,7 @@ B.S. in Computer & Information Security (2026)
 
 **Repositories**
 - Main Project: [ATT-LAS Repository](https://github.com/WooyoungSon/ATT-LAS)
-- Dashboard: [mclaud Dashboard](https://github.com/shrimp887/mclaud)
+- Dashboard: [ATT-LAS Dashboard](https://github.com/shrimp887/mclaud)
 
 ### 🦯 Smart GreenCane
 >**oneM2M-based Smart White Cane Monitoring System**
@@ -36,7 +36,7 @@ B.S. in Computer & Information Security (2026)
 - 🏆 4th International oneM2M Hackathon – Judge's Favourite Award
 
 **Repository**
-- [Smart GreenCane Repository](https://github.com/D30kY/SmartGreenCane)
+- [Smart White Cane Notification System](https://github.com/D30kY/SmartGreenCane)
 
 ---
 
