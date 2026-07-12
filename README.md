@@ -36,7 +36,7 @@ B.S. in Computer & Information Security (2026)
 - 🏆 4th International oneM2M Hackathon – Judge's Favourite Award
 
 **Repository**
-- [Smart White Cane Notification System](https://github.com/D30kY/SmartGreenCane)
+- [Smart White Cane Notification System Repository](https://github.com/D30kY/SmartGreenCane)
 
 ---
 
