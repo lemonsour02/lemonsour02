@@ -1,84 +1,66 @@
-## 👋 Hi, I'm Chanhee Hong
+# 👋 Hi, I'm Chanhee Hong
 
-Security Software Developer
-Interested in SIEM, Security Monitoring, Backend Development
+**Security Software Developer**  
+Interested in **SIEM**, **Security Monitoring**, and **Backend Development**
 
-----------------------------
+---
 
-👨‍💻 About Me
+## 👨‍💻 About Me
 
-🎓 B.S. Computer & Information Security
-
+🎓 **B.S. in Computer & Information Security**  
 Sejong University
 
-----------------------------
+---
 
-🚀 Featured Projects
+## 🚀 Featured Projects
 
-ATT-LAS
+### 🛡️ ATT-LAS
+**Real-time Multi-Cloud Threat Prediction & Security Monitoring**
 
-Real-time Multi-Cloud Threat Prediction & Security Monitoring
+- Collected security logs from Azure, AWS, and GCP
+- Built a log pipeline using Fluent Bit, Kafka, and OpenSearch
+- Implemented MITRE ATT&CK-based detection rules
+- Contributed to the development of a real-time monitoring dashboard using Next.js
+- 🏆 Best Capstone Project Award
 
-Azure, AWS, GCP 로그 수집
+**Repositories**
+- Main Project: https://github.com/WooyoungSon/ATT-LAS
+- Dashboard: https://github.com/shrimp887/mclaud
 
-Fluent Bit + Kafka + OpenSearch 기반 파이프라인
+---
 
-MITRE ATT&CK 기반 탐지 규칙 구현
+### 🦯 Smart GreenCane
+**oneM2M-based Smart White Cane Monitoring System**
 
-Next.js 기반 실시간 대시보드 개발
+- Generated virtual sensor data using Python for system validation
+- Participated in designing the oneM2M Resource Tree
+- Contributed to the Vue.js-based real-time monitoring interface
+- 🏆 4th International oneM2M Hackathon – Judge's Favourite Award
 
-🏆 Best Capstone Project
+**Repository**
+- https://github.com/D30kY/SmartGreenCane
 
-👉 https://github.com/WooyoungSon/ATT-LAS
+---
 
-   https://github.com/shrimp887/mclaud
+## 🛠 Tech Stack
 
-Smart GreenCane
+### Languages
+- Python
+- C
 
-oneM2M-based Smart White Cane Monitoring System
+### Frontend
+- Next.js
+- React
+- Vue.js
 
-Python 기반 가상 센서 데이터 생성
+### Security & Cloud
+- Azure
+- OpenSearch
+- Kafka
+- Fluent Bit
+- Docker
+- Linux
 
-oneM2M Resource Tree 설계 참여
-
-Vue.js 실시간 모니터링 화면 개발 참여
-
-🏆 4th International oneM2M Hackathon Judge's Favourite
-
-👉 https://github.com/D30kY/SmartGreenCane
-
-----------------------------
-
-Tech Stack
-
-Python
-
-Docker
-
-Linux
-
-Azure
-
-OpenSearch
-
-Kafka
-
-Next.js
-
-Git
-
-
-<!--
-**lemonsour02/lemonsour02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools
+- Git
+- GitHub
