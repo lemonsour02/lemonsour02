@@ -1,18 +1,18 @@
-# 👋 Hi, I'm Chanhee Hong
+# Hi, I'm Chanhee Hong
 
 **Security Software Engineer**  
 Interested in **SIEM**, **Security Monitoring**, and **Backend Development**
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 🎓 **Sejong University**  
 B.S. in Computer & Information Security (2026)
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 🛡️ ATT-LAS
 >**Real-time Multi-Cloud Threat Prediction & Security Monitoring**
