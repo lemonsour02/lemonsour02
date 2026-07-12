@@ -24,8 +24,8 @@ B.S. in Computer & Information Security (2026)
 - 🏆 Best Capstone Project Award
 
 **Repositories**
-- Main Project: [ATT-LAS Repository](https://github.com/WooyoungSon/ATT-LAS)
-- Dashboard: [ATT-LAS Dashboard](https://github.com/shrimp887/mclaud)
+- [ATT-LAS Main Repository](https://github.com/WooyoungSon/ATT-LAS)
+- [ATT-LAS Dashboard](https://github.com/shrimp887/mclaud)
 
 ### 🦯 Smart GreenCane
 >**oneM2M-based Smart White Cane Monitoring System**
