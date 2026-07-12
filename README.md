@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Chanhee Hong
 
-**Security Software Developer**  
+**Security Software Engineer**  
 Interested in **SIEM**, **Security Monitoring**, and **Backend Development**
 
 ---
@@ -15,7 +15,7 @@ B.S. in Computer & Information Security (2026)
 ## 🚀 Featured Projects
 
 ### 🛡️ ATT-LAS
-**Real-time Multi-Cloud Threat Prediction & Security Monitoring**
+>**Real-time Multi-Cloud Threat Prediction & Security Monitoring**
 
 - Collected security logs from Azure, AWS, and GCP
 - Built a log pipeline using Fluent Bit, Kafka, and OpenSearch
@@ -27,10 +27,10 @@ B.S. in Computer & Information Security (2026)
 - Main Project: https://github.com/WooyoungSon/ATT-LAS
 - Dashboard: https://github.com/shrimp887/mclaud
 
----
+
 
 ### 🦯 Smart GreenCane
-**oneM2M-based Smart White Cane Monitoring System**
+>**oneM2M-based Smart White Cane Monitoring System**
 
 - Generated virtual sensor data using Python for system validation
 - Participated in designing the oneM2M Resource Tree
