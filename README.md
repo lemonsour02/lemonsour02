@@ -40,7 +40,7 @@ B.S. in Computer & Information Security (2026)
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Languages
 - Python
