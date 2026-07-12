@@ -7,8 +7,8 @@ Interested in **SIEM**, **Security Monitoring**, and **Backend Development**
 
 ## 👨‍💻 About Me
 
-🎓 **B.S. in Computer & Information Security**  
-Sejong University
+🎓 **Sejong University**  
+B.S. in Computer & Information Security (2026)
 
 ---
 
